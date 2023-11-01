@@ -1,7 +1,10 @@
 
 1、pnpm install && pnpm dev 启动项目
+
 2、访问 http://localhost:5173/
+
 3、collapse 展开/折叠动画消失
+
 4、移除 App.vue 文件中 a-config-provider 的 prefixCls 属性，动画正常
 
 ```js
